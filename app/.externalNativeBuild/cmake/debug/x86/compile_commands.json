@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/DEKO/gplt/app/.externalNativeBuild/cmake/debug/x86",
+  "command": "C:\\Users\\DEKO\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android --gcc-toolchain=C:/Users/DEKO/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/DEKO/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem C:/Users/DEKO/AppData/Local/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/Users/DEKO/AppData/Local/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem C:/Users/DEKO/AppData/Local/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem C:/Users/DEKO/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=27 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\native-lib.cpp.o -c C:\\Users\\DEKO\\gplt\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:/Users/DEKO/gplt/app/src/main/cpp/native-lib.cpp"
+}
+]

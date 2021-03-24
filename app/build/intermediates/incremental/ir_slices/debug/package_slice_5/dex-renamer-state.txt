@@ -1,0 +1,4 @@
+#Thu Oct 17 07:59:23 PDT 2019
+base.0=C\:\\Users\\DEKO\\gplt\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

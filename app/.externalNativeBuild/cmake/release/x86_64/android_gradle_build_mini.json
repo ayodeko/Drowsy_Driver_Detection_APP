@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DEKO\\gplt\\app\\..\\..\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\DEKO\\gplt\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DEKO\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\DEKO\\gplt\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\DEKO\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\DEKO\\gplt\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target native-lib",
+      "abi": "x86_64",
+      "output": "C:\\Users\\DEKO\\gplt\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libnative-lib.so"
+    }
+  }
+}
